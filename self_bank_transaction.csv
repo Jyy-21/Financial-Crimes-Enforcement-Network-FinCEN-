@@ -1,0 +1,9 @@
+originator_bank_country,beneficiary_bank_country,IncomeGroup,Population,Area (sq. mi.),GDP ($ per capita),begin_date,end_date,duration(days),number_transactions,amount_transactions,suspicious
+Malaysia,Malaysia,3,24385858,329750,9000,2021-02-22,2021-02-22,1,1,878,-1
+Singapore,Malaysia,4,4492150,693,23700,2020-04-01,2020-12-31,275,5,8000,-1
+Singapore,Malaysia,4,24385858,329750,9000,2021-02-12,2021-02-12,1,1,500,-1
+Malaysia,Malaysia,3,24385858,329750,9000,2021-02-18,2021-02-18,1,1,100,-1
+Malaysia,Malaysia,3,24385858,329750,9000,2021-02-22,2021-02-22,1,1,1500,-1
+Singapore,Malaysia,4,4492150,693,23700,2020-01-01,2020-01-01,0,1,1300,-1
+Singapore,Malaysia,4,24385858,329750,9000,2021-02-12,2021-02-12,1,1,5000,-1
+Malaysia,Malaysia,3,24385858,329750,9000,2021-02-18,2021-02-18,1,1,2000,-1
