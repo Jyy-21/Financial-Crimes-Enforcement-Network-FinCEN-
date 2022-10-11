@@ -8,7 +8,7 @@ FinCEN refers to the Financial Crimes Enforcement Network, it is a bureau of the
 The problem that we found and intend to solve from this dataset is the contributing factors of suspicious transactions. The motivation behind this problem is the incident of the 1Malaysia Development Berhad (1MDB) scandal that occurred in Malaysia in 2015. 1MDB is a Malaysian state fund which was established in 2009 to promote development through foreign investment and partnerships. The fund was one of the biggest corruption scandals in the world where the US justice department believes that the scandal is more than 4.5 billion US dollars. Into the details, vast sums were borrowed via government bonds and then siphoned into bank accounts in Switzerland, Singapore, and United States. Therefore, we would like to know what factors will make a transaction suspicious and explore their relationships as well as building model to tackle this problem. 
 
 # Questions
-Descriptive:
+`Descriptive:`
 1. What are the number of transactions, amount of transactions, and the average amount of
 transactions for each countries?
 2. Which countries contributes to the majority of suspicious transactions?
@@ -16,10 +16,10 @@ transactions for each countries?
 transactions for each region?
 4. Which regions contributes to majority of suspicious transactions?
 
-Exploratory:
+`Exploratory:`
 1. What kind of relationships are there between the attributes?
 
-Predictive:
+`Predictive:`
 1. Can we predict if a transaction is suspicious based on its attributes?
 
 
