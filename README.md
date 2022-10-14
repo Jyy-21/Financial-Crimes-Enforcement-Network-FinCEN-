@@ -1,4 +1,4 @@
-# Financial-Crimes-Enforcement-Network-FinCEN-
+# Financial-Crimes-Enforcement-Network-FinCEN
 This project is to propose a problem that can be solved by undergoing the data science process.
 
 # Introduction
